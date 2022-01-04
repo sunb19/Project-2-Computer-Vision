@@ -1,7 +1,3 @@
-# p2-cv
-
-EECS 280 Project 2 Solution
-===========================
-Computer Vision
-
-By John Shen <shennyj@umich.edu>
+Project_2 computer vision
+--------------------------
+A project that we can resize images in a way that changes the aspect ratio but does not distort the image. 
